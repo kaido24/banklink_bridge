@@ -1,0 +1,5 @@
+This file is intended to work with my bank payment modules wich are created to drupal. 
+Drupal6 Ubercart Estonian payments
+Drupal7 Ubercart Estonian payments 
+Drupal7 Commerce Estonian payments
+Just put this into /sites/all/libraries/

@@ -1,2 +1,6 @@
-This file is intended to work with my bank modules wich are created to drupal. 
+Content of this folder is intended to work with my bank payment modules wich are created for Drupal content managment framework.
+Drupal6 Ubercart Estonian payments
+Drupal7 Ubercart Estonian payments 
+Drupal7 Commerce Estonian payments
 Just put this into /sites/all/libraries/
+This foldertree should look just like that. /site/all/libraries/banklink_brige/banklink.inc
